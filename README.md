@@ -1,6 +1,4 @@
-## Open AI ChatGPT Chat Page Clone
-
-Fun project to get much familiar with TailwindCSS and still be able to use ChatGPT bot when it is at full capasity 👹
+## Fork of Open AI ChatGPT Chat Page Clone
 
 It's looks like;
 
@@ -12,10 +10,10 @@ Happy chating 🤟🏻
 
 ```bash
 ## Clone the repository to your local
-git clone https://github.com/yagizhanNY/openai-chatgpt3-clone.git
+git clone https://github.com/j-b-b/openai-chatgpt3-angular-clone.git
 
 ## Navigate to project's directory
-cd openai-chatgpt3-clone
+cd openai-chatgpt3-angular-clone
 
 ## Install the packages
 npm install
